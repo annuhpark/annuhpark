@@ -1,6 +1,6 @@
-## Hello there. :smile:
+## Hello there.:smile:
 
-### Who am I? :question:
+### Who am I:question:
 My name is Anna Park, & I am a former Fashion Designer turned Software Developer. I graduated from Parsons School of Design in New York City :mortar_board: & worked in the fashion industry before returning to Southern California :sunny: to pursue a career in tech. My interest in coding stemmed from wanting to integrate both visual & functional aspects together to successfully build a project. As new days present new challenges, I always continue to work hard to improve my skillsets from the day before. :sparkles:  
 
 - 🔭 I’m currently working on...
@@ -11,10 +11,10 @@ My name is Anna Park, & I am a former Fashion Designer turned Software Developer
  2. Bootstrap
 
 ### Fun Facts :eyes:
-- I'm left handed. That being said, I have the coolest & possibly the weirdest handwriting. 
-- Big fan of true crime documentaries. 
-- No matter what the weather is, I only drink iced coffee. 
-- Going to art museums is how I relax. 
+- I'm left handed. That being said, I have the coolest & possibly the weirdest handwriting. :raised_hand_with_fingers_splayed:	
+- Big fan of true crime documentaries. :nerd_face:	
+- No matter what the weather is, I only drink iced coffee. :ice_cube:	
+- Going to art museums is how I relax. :woman_artist:
 
 ### Technologies & Tools :robot: :alien:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
