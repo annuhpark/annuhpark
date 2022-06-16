@@ -3,10 +3,10 @@
 ## Who am I:question: 
 My name is Anna Park, & I am a former Fashion Designer turned Software Developer. I graduated from Parsons School of Design in New York City :mortar_board: & worked in the fashion industry before returning to Southern California :sunny: to pursue a career in tech. My interest in coding stemmed from wanting to integrate both visual & functional aspects together to successfully build a project. As new days present new challenges, I always continue to work hard to improve my skillsets from the day before. :sparkles:  
 
-- 🔭 I’m currently working on...
+- 🔭 I’m currently working on:
  1. Creating additional features for my full-stack application project, Solitudal Thoughts.
  2. Algorithms on CodeSignal & LeetCode.
-- 🌱 I’m currently learning & reviewing...
+- 🌱 I’m currently learning & reviewing:
  1. React.js
  2. Bootstrap
 
