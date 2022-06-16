@@ -12,7 +12,7 @@ My name is Anna Park, & I am a former Fashion Designer turned Software Developer
 
 ## Fun Facts: :eyes:
 - I'm left handed. That being said, I have the coolest & possibly the weirdest handwriting. :raised_hand_with_fingers_splayed:	
-- Back in my art school days, I used to love drawing any kind of fruit to calm me down. It still stays with me until this very day. :woman_artist:
+- I like drawing fruit to calm down. :woman_artist:
 - Big fan of true crime documentaries. :nerd_face:	
 - No matter what the weather is, I only drink iced coffee. :ice_cube:	
 - When I'm not coding, you can find me exploring museums, taking strolls at the beach or trying new dessert shops!
