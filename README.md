@@ -10,19 +10,19 @@ My name is Anna Park, & I am a former Fashion Designer turned Software Developer
  1. React.js
  2. Bootstrap
 
-## Fun Facts :eyes:
+## Fun Facts: :eyes:
 - I'm left handed. That being said, I have the coolest & possibly the weirdest handwriting. :raised_hand_with_fingers_splayed:	
 - Big fan of true crime documentaries. :nerd_face:	
 - No matter what the weather is, I only drink iced coffee. :ice_cube:	
 - Going to art museums is how I relax. :woman_artist:
 
-## Technologies & Tools :robot: :alien:
+## Technologies & Tools: :robot: :alien:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 
-## My Stats 📈
+## My Stats: 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annuhpark&layout=compact)](https://github.com/annuhpark/github-readme-stats)
 
 [![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annuhpark)](https://github.com/annuhpark/github-readme-stats)
 
-## Let's Connect :woman_technologist:	
+## Let's Connect: :woman_technologist:	
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" src="https://www.linkedin.com/in/anna-park-06341b107/"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" src="https://github.com/annuhpark" />
