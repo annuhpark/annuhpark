@@ -1,7 +1,7 @@
 # Hello there :wave: :smile:
 
 ## Who am I:question: 
-My name is Anna Park, & I am a former Fashion Designer turned Software Developer. I graduated from Parsons School of Design in New York City :mortar_board: & worked in the fashion industry before returning to Southern California :sunny: to pursue a career in tech. My interest in coding stemmed from wanting to integrate both visual & functional aspects together to successfully build a project. As new days present new challenges, I always continue to work hard to improve my skillsets from the days before. :sparkles:  
+My name is Anna Park, & I am a former Fashion Designer turned Software Developer. I graduated from Parsons School of Design in New York City :mortar_board: & worked in the fashion industry before returning to Southern California :sunny: to pursue a career in tech. My interest in coding stemmed from wanting to integrate both visual & functional aspects together to successfully build a project. As new days present new challenges, I will always continue to work hard to improve my skillsets. :sparkles:  
 
 - 🔭 I’m currently working on:
  1. Creating additional features for my full-stack application project, Solitudal Thoughts.
