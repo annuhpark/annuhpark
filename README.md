@@ -7,8 +7,8 @@ My name is Anna Park, & I am a former Fashion Designer turned Software Developer
  1. Creating additional features for my full-stack application project, Solitudal Thoughts.
  2. Algorithms on CodeSignal, LeetCode & Codewars.
 - 🌱 I’m currently learning & reviewing:
- 1. React.js
- 2. Bootstrap
+ 1. React from a udemy course [here.](https://www.udemy.com/course/react-the-complete-guide-incl-redux)
+ 2. Algos!
 
 ## Fun Facts: :eyes:
 - I'm left handed. That being said, I have the coolest & possibly the weirdest handwriting. :raised_hand_with_fingers_splayed:	
