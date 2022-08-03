@@ -9,7 +9,6 @@ My name is Anna Park, & I am a former Fashion Designer turned Software Developer
 - 🌱 I’m currently learning & reviewing:
  1. React from a udemy course [here](https://www.udemy.com/course/react-the-complete-guide-incl-redux), specifically react hooks! 
  2. Algos!
- 3. Building a chat application & learning how to use socket.io!
 
 ## Fun Facts: :eyes:
 - I'm left handed. That being said, I have the coolest & possibly the weirdest handwriting. :raised_hand_with_fingers_splayed:	
