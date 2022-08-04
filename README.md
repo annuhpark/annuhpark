@@ -5,7 +5,7 @@ My name is Anna Park, & I am a former Fashion Designer turned Software Developer
 
 - 🔭 I’m currently working on:
  1. Creating additional features for my full-stack application project, Solitudal Thoughts.
- 2. Algorithms on CodeSignal, LeetCode & Codewars.
+ 2. Algorithms on CodeSignal & Leetcode.
 - 🌱 I’m currently learning & reviewing:
  1. React from a udemy course [here](https://www.udemy.com/course/react-the-complete-guide-incl-redux), specifically react hooks! 
  2. Algos!
