@@ -4,7 +4,7 @@
 My name is Anna Park, & I am a former Fashion Designer turned Software Developer. I graduated from Parsons School of Design in New York City :mortar_board: & worked in the fashion industry before returning to Southern California :sunny: to pursue a career in tech. My interest in coding stemmed from wanting to integrate both visual & functional aspects together to successfully build a project. As new days present new challenges, I always continue to work hard to improve my skillsets. :sparkles:  
 
 - 🔭 I’m currently working on:
- 1. Trying to create my own web page with my new skills!
+ 1. Creating a new application "Restaurant Finder" that uses the PERN stack.
  2. Algorithms on CodeSignal, Leetcode & HackerRank.
 - 🌱 I’m currently learning & reviewing:
  1. React from a udemy course [here](https://www.udemy.com/course/react-the-complete-guide-incl-redux), specifically react hooks! 
