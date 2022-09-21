@@ -7,7 +7,7 @@ My name is Anna Park, & I am a former Fashion Designer turned Software Developer
  1. Creating a new application "Travel Buddy" that uses PERN stack.
  2. Algorithms on CodeSignal, Leetcode & HackerRank.
 - 🌱 I’m currently learning & reviewing:
- 1. React.
+ 1. React, specifically using Hooks. Started off learning react with class components.
  2. Algos!
 
 ## Fun Facts: :eyes:
