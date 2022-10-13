@@ -9,7 +9,7 @@ My name is Anna Park, & I am a former Fashion Designer turned Software Developer
  
 - 🌱 Personally, I'm currently:
  1. Creating a new application "Travel Buddy" that uses PERN stack.
- 2. Algos!
+ 2. Reviewing algos!
 
 ## Fun Facts: :eyes:
 - I'm left handed. That being said, I have the coolest & possibly the weirdest handwriting. :raised_hand_with_fingers_splayed:	
