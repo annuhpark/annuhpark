@@ -3,9 +3,11 @@
 ## Who am I:question: 
 My name is Anna Park, & I am a former Fashion Designer turned Software Developer. I graduated from Parsons School of Design in New York City :mortar_board: & worked in the fashion industry before returning to Southern California :sunny: to pursue a career in tech. My interest in coding stemmed from wanting to integrate both visual & functional aspects together to successfully build a project. As new days present new challenges, I always continue to work hard to improve my skill set. :sparkles:  
 
-- 🔭 I’m currently working on:
+- 🔭 I’m currently:
  1. Creating a new application "Travel Buddy" that uses PERN stack.
- 2. Algorithms on CodeSignal, Leetcode & HackerRank.
+ 2. Working part-time as a Coding Instructor at Code Ninjas.
+ 3. Interning part-time as a Software Engineer at Poom.
+ 
 - 🌱 I’m currently learning & reviewing:
  1. React, specifically using Hooks. Started off learning react with class components.
  2. Algos!
