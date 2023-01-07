@@ -6,6 +6,7 @@ My name is Anna Park, & I am a former Fashion Designer turned Software Developer
 - 🔭 Professionally, I'm currently:
  1. Working part-time as an After School Instructor at E-PLEX.
  2. Interning part-time as a Software Engineer at Poom.
+ 3. A soon-to-be Software Engineer at Savvas!
  
 - 🌱 Personally, I'm currently:
  1. Creating a new application "Travel Buddy" that uses PERN stack.
