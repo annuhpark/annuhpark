@@ -4,10 +4,9 @@
 My name is Anna Park, & I am a former Fashion Designer turned Software Developer. I graduated from Parsons School of Design in New York City :mortar_board: & worked in the fashion industry before returning to Southern California :sunny: to pursue a career in tech. My interest in coding stemmed from wanting to integrate both visual & functional aspects together to successfully build a project. As new days present new challenges, I always continue to work hard to improve my skill set. :sparkles:  
 
 ## Fun Facts: :eyes:
-- I'm left handed. That being said, I have the coolest & possibly the weirdest handwriting. :raised_hand_with_fingers_splayed:	
+- I'm left handed. :raised_hand_with_fingers_splayed:	
 - I like drawing fruit to calm down. :woman_artist:
 - Big fan of true crime documentaries. :nerd_face:	
-- No matter what the weather is, I only drink iced coffee. :ice_cube:	
 - When I'm not coding, you can find me exploring museums, taking strolls at the beach or trying new dessert shops!
 
 ## Technologies & Tools: :robot: :alien:
