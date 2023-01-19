@@ -3,15 +3,6 @@
 ## Who am I:question: 
 My name is Anna Park, & I am a former Fashion Designer turned Software Developer. I graduated from Parsons School of Design in New York City :mortar_board: & worked in the fashion industry before returning to Southern California :sunny: to pursue a career in tech. My interest in coding stemmed from wanting to integrate both visual & functional aspects together to successfully build a project. As new days present new challenges, I always continue to work hard to improve my skill set. :sparkles:  
 
-- 🔭 Professionally, I'm currently:
- 1. Working part-time as an After School Instructor at E-PLEX.
- 2. Interning part-time as a Software Engineer at Poom.
- 3. A soon-to-be Software Engineer at Savvas!
- 
-- 🌱 Personally, I'm currently:
- 1. Creating a new application "Travel Buddy" that uses PERN stack.
- 2. Reviewing algos!
-
 ## Fun Facts: :eyes:
 - I'm left handed. That being said, I have the coolest & possibly the weirdest handwriting. :raised_hand_with_fingers_splayed:	
 - I like drawing fruit to calm down. :woman_artist:
