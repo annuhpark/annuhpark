@@ -6,7 +6,6 @@
 ## My Stats: 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annuhpark&layout=compact)](https://github.com/annuhpark/github-readme-stats)
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annuhpark)](https://github.com/annuhpark/github-readme-stats)
 
 ## Let's Connect: :woman_technologist:	
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-park-06341b107/) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annuhpark)
